@@ -7,7 +7,7 @@ import Profile from '@/routes/Profile';
 import NotMatch from '@/routes/NotMatch';
 import Layout from '@/components/Layout'
 import SinglePage from '@/routes/SinglePage';
-import ProtectedRoute from '@/components/Protectedroutes';
+import ProtectedRoute from '@/components/ProtectedRoutes';
 
 const TodoApp = () => {
   return (
